@@ -1,4 +1,4 @@
-#energy clustering
+# energy clustering
 
 Contains a mini-project of energy consumption segmentation by K-means clustering. 
 
